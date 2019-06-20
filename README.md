@@ -7,7 +7,7 @@ Visualizing the impact of climate change on flight experience
 An exploration of domestic travel sector of civil aviation in India
 
 #### Description:
-This visualization explores the trends in flight cancellations and passenger complaints for some major airline carriers operating in the civil aviation sector of India's transportation for years 2014-18. These trends are visualizaed based on temperature and rainfall trends(2014-2018) and upcoming holidays(2019). Being a tropical country, India experiences prominent seasons that inflence air travel, specifically, the flight experience.
+This visualization explores the trends in flight cancellations and passenger complaints for some major airline carriers operating in the civil aviation sector of India's transportation for years 2014-18. These trends are visualized based on temperature and rainfall trends(2014-2018) and upcoming holidays(2019). Being a tropical country, India experiences prominent seasons that influence air travel, specifically, the flight experience.
 
 #### URL to hosted project:
 https://aaditirokade.github.io/thesisProject
